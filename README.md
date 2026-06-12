@@ -1,10 +1,10 @@
 # Nishant Tyagi
 
-<img src="./assets/profile-header.svg" alt="Nishant Tyagi · AI Security · Detection Engineering · Agentic Systems" width="100%">
+<img src="./assets/profile-header.svg" alt="Nishant Tyagi · Cybersecurity · AI Security · Agentic Systems" width="100%">
 
-**AI Security · Detection Engineering · Agentic Systems**
+**Cybersecurity · AI Security · Agentic Systems**
 
-I build security infrastructure for AI-era systems: detection engineering tools, threat intelligence pipelines, and guardrails for LLM and agentic workflows. I have 20+ years of experience building complex systems across intrusion prevention, phishing detection, applied AI, and secure platform architecture.
+I build security infrastructure for complex systems: intrusion prevention, phishing detection, cloud-scale platforms, AI security controls, and guardrails for LLM and agentic workflows. I have 20+ years of experience across cybersecurity, infrastructure, applied AI, and secure platform architecture.
 
 [cybertect.ai](https://cybertect.ai) · [LinkedIn](https://www.linkedin.com/in/nishant-tyagi-builder/) · [ORCID](https://orcid.org/0009-0008-4747-6088)
 
@@ -13,10 +13,10 @@ I build security infrastructure for AI-era systems: detection engineering tools,
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="./assets/card-ai-security.svg" alt="AI Security: prompt-injection defenses, policy guardrails, and model-facing controls" width="100%">
+      <img src="./assets/card-cybersecurity.svg" alt="Cybersecurity: intrusion prevention, phishing defense, detection engineering, and secure platform architecture" width="100%">
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./assets/card-detection-engineering.svg" alt="Detection Engineering: rule quality, Sigma validation, threat intelligence pipelines, and cross-platform detection translation" width="100%">
+      <img src="./assets/card-ai-security.svg" alt="AI Security: prompt-injection defenses, policy guardrails, and model-facing controls" width="100%">
     </td>
     <td width="33%" valign="top" align="center">
       <img src="./assets/card-agentic-systems.svg" alt="Agentic Systems: planning loops, tool boundaries, memory and state management, evaluation, observability, and runtime guardrails" width="100%">
@@ -41,8 +41,8 @@ I build security infrastructure for AI-era systems: detection engineering tools,
 ## Background
 
 - 20+ years building complex systems across security, infrastructure, and applied AI
-- Principal Software Engineer at System Two Security (Detections.ai): designed and built AI-assisted detection generation and cross-platform detection-rule translation systems
-- Earlier: client intrusion detection and prevention engine work at Symantec (Broadcom), AI-driven phishing detection at Bolster
+- Principal Software Engineer at System Two Security (Detections.ai), building AI-assisted security systems and detection infrastructure
+- Earlier: intrusion detection and prevention engine work at Symantec (Broadcom), AI-driven phishing detection at Bolster
 - Carnegie Mellon University, MS Information Technology, Information Security (2013) · MIT Professional Education, Applied Data Science (2023) · CISSP
 
 ## Writing

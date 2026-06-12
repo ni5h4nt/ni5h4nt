@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="210" viewBox="0 0 300 210" role="img" aria-labelledby="title desc">
+  <title id="title">Cybersecurity</title>
+  <desc id="desc">Building secure systems across intrusion prevention, phishing defense, detection engineering, and platform architecture.</desc>
+  <rect width="300" height="210" rx="12" fill="#F7FAFE"/>
+  <rect x="0.5" y="0.5" width="299" height="209" rx="11.5" fill="none" stroke="#D2DFF0"/>
+  <rect x="0" y="0" width="300" height="6" fill="#284B63"/>
+  <circle cx="42" cy="42" r="18" fill="#E1EAF4"/>
+  <path d="M42 27 L55 33 V43 C55 53 49 60 42 64 C35 60 29 53 29 43 V33 Z" fill="#284B63"/>
+  <text x="24" y="86" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#1D3343">Cybersecurity</text>
+  <text x="24" y="121" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#415466">Intrusion prevention</text>
+  <text x="24" y="146" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#415466">Phishing defense</text>
+  <text x="24" y="171" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#415466">Detection engineering and platforms</text>
+</svg>
