@@ -34,17 +34,15 @@ I build security infrastructure for complex systems: intrusion prevention, phish
 
 **Upstream** · Machine-readable per-rule changelog for the Sigma standard: [SigmaHQ/sigma #6050](https://github.com/SigmaHQ/sigma/pull/6050).
 
-## Research & standards
+## Research
 
 - [SoK: AI-Assisted Threat Intelligence Pipelines](https://doi.org/10.5281/zenodo.20371686) (preprint, 2026)
 - [Static Quality Assessment of Sigma Detection Rules: Framework and Empirical Evaluation](https://doi.org/10.5281/zenodo.20371761) (preprint, 2026)
-- Public technical comments to NIST on SP 800-133r3 (cryptographic key generation) and the AI Risk Management Framework roadmap (TEVV for multi-agent AI systems)
 
 ## Background
 
-- 20+ years building complex systems across security, infrastructure, and applied AI
-- Principal Software Engineer at System Two Security (Detections.ai), building AI-assisted security systems and detection infrastructure
-- Earlier: intrusion detection and prevention engine work at Symantec (Broadcom), AI-driven phishing detection at Bolster
+- 20+ years in founding and principal engineering roles, building complex systems across security, infrastructure, and applied AI
+- Hands-on across intrusion detection and prevention engines, AI-driven phishing defense, cloud-scale detection platforms, and runtime guardrails for LLM and agentic workflows
 - Carnegie Mellon University, MS Information Technology, Information Security (2013) · MIT Professional Education, Applied Data Science (2023) · CISSP
 
 ## Writing
