@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="210" viewBox="0 0 300 210" role="img" aria-labelledby="title desc">
+  <title id="title">Agentic Systems</title>
+  <desc id="desc">Designing agentic architectures with planning loops, tool boundaries, memory and state management, evaluation, observability, and runtime guardrails.</desc>
+  <rect width="300" height="210" rx="12" fill="#FAF9FD"/>
+  <rect x="0.5" y="0.5" width="299" height="209" rx="11.5" fill="none" stroke="#DED9EE"/>
+  <rect x="0" y="0" width="300" height="6" fill="#6A5B9A"/>
+  <circle cx="42" cy="42" r="18" fill="#EAE6F5"/>
+  <circle cx="34" cy="42" r="4" fill="#6A5B9A"/>
+  <circle cx="42" cy="34" r="4" fill="#6A5B9A"/>
+  <circle cx="50" cy="42" r="4" fill="#6A5B9A"/>
+  <circle cx="42" cy="50" r="4" fill="#6A5B9A"/>
+  <path d="M38 40 L42 36 L46 40 M38 44 L42 48 L46 44" fill="none" stroke="#6A5B9A" stroke-width="2" stroke-linecap="round"/>
+  <text x="24" y="86" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#332D4F">Agentic Systems</text>
+  <text x="24" y="121" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#504A68">Planning loops and tool boundaries</text>
+  <text x="24" y="146" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#504A68">Memory and state management</text>
+  <text x="24" y="171" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#504A68">Evaluation, observability, guardrails</text>
+</svg>

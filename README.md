@@ -1,5 +1,7 @@
 # Nishant Tyagi
 
+<img src="./assets/profile-header.svg" alt="Nishant Tyagi · AI Security · Detection Engineering · Agentic Systems" width="100%">
+
 **AI Security · Detection Engineering · Agentic Systems**
 
 I build security infrastructure for AI-era systems: detection engineering tools, threat intelligence pipelines, and guardrails for LLM and agentic workflows. I have 20+ years of experience building complex systems across intrusion prevention, phishing detection, applied AI, and secure platform architecture.
@@ -10,17 +12,14 @@ I build security infrastructure for AI-era systems: detection engineering tools,
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>AI Security</h3>
-      <p>Securing LLM and AI-enabled applications with prompt-injection defenses, policy guardrails, and model-facing controls.</p>
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/card-ai-security.svg" alt="AI Security: prompt-injection defenses, policy guardrails, and model-facing controls" width="100%">
     </td>
-    <td width="33%" valign="top">
-      <h3>Detection Engineering</h3>
-      <p>Building tools for detection-rule quality, Sigma validation, threat intelligence pipelines, and cross-platform detection translation.</p>
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/card-detection-engineering.svg" alt="Detection Engineering: rule quality, Sigma validation, threat intelligence pipelines, and cross-platform detection translation" width="100%">
     </td>
-    <td width="33%" valign="top">
-      <h3>Agentic Systems</h3>
-      <p>Designing agentic architectures with planning loops, tool boundaries, memory and state management, evaluation, observability, and runtime guardrails.</p>
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/card-agentic-systems.svg" alt="Agentic Systems: planning loops, tool boundaries, memory and state management, evaluation, observability, and runtime guardrails" width="100%">
     </td>
   </tr>
 </table>

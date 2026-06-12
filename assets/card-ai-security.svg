@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="210" viewBox="0 0 300 210" role="img" aria-labelledby="title desc">
+  <title id="title">AI Security</title>
+  <desc id="desc">Securing LLM and AI-enabled applications with prompt-injection defenses, policy guardrails, and model-facing controls.</desc>
+  <rect width="300" height="210" rx="12" fill="#F6FBFA"/>
+  <rect x="0.5" y="0.5" width="299" height="209" rx="11.5" fill="none" stroke="#CFE4DF"/>
+  <rect x="0" y="0" width="300" height="6" fill="#2E7D6B"/>
+  <circle cx="42" cy="42" r="18" fill="#DDEFEA"/>
+  <path d="M42 27 L55 33 V43 C55 53 49 60 42 64 C35 60 29 53 29 43 V33 Z" fill="#2E7D6B"/>
+  <text x="24" y="86" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#18352F">AI Security</text>
+  <text x="24" y="121" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#39524B">Prompt-injection defenses</text>
+  <text x="24" y="146" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#39524B">Policy guardrails</text>
+  <text x="24" y="171" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#39524B">Model-facing controls</text>
+</svg>

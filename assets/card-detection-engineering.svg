@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="210" viewBox="0 0 300 210" role="img" aria-labelledby="title desc">
+  <title id="title">Detection Engineering</title>
+  <desc id="desc">Building tools for detection-rule quality, Sigma validation, threat intelligence pipelines, and cross-platform detection translation.</desc>
+  <rect width="300" height="210" rx="12" fill="#F7FAFE"/>
+  <rect x="0.5" y="0.5" width="299" height="209" rx="11.5" fill="none" stroke="#D2DFF0"/>
+  <rect x="0" y="0" width="300" height="6" fill="#284B63"/>
+  <circle cx="42" cy="42" r="18" fill="#E1EAF4"/>
+  <path d="M32 50 L39 43 L46 48 L57 34" fill="none" stroke="#284B63" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="24" y="86" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#1D3343">Detection</text>
+  <text x="24" y="112" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#1D3343">Engineering</text>
+  <text x="24" y="146" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#415466">Rule quality and Sigma validation</text>
+  <text x="24" y="171" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#415466">Threat intel pipelines</text>
+  <text x="24" y="196" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#415466">Cross-platform translation</text>
+</svg>
