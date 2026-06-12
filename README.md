@@ -4,6 +4,8 @@
 
 **Cybersecurity · AI Security · Agentic Systems**
 
+Cybersecurity engineer, independent researcher, and inventor working at the intersection of AI security, detection engineering, and agentic systems.
+
 I build security infrastructure for complex systems: intrusion prevention, phishing detection, cloud-scale platforms, AI security controls, and guardrails for LLM and agentic workflows. I have 20+ years of experience across cybersecurity, infrastructure, applied AI, and secure platform architecture.
 
 [cybertect.ai](https://cybertect.ai) · [LinkedIn](https://www.linkedin.com/in/nishant-tyagi-builder/) · [ORCID](https://orcid.org/0009-0008-4747-6088)
