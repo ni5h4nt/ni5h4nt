@@ -1,14 +1,33 @@
 # Nishant Tyagi
 
-**AI Security · Detection Engineering · System Design**
+**AI Security · Detection Engineering · Agentic Systems**
 
-I build infrastructure that turns threat intelligence into high-quality detections, and guardrails that keep agentic AI systems safe. 20+ years building secure, scalable systems: network intrusion prevention at Symantec, AI-driven phishing detection at Bolster, and AI-assisted detection engineering at System Two Security (Detections.ai).
+I build security infrastructure for AI-era systems: detection engineering tools, threat intelligence pipelines, and guardrails for LLM and agentic workflows. I have 20+ years of experience building complex systems across intrusion prevention, phishing detection, applied AI, and secure platform architecture.
 
 [cybertect.ai](https://cybertect.ai) · [LinkedIn](https://www.linkedin.com/in/nishant-tyagi-builder/) · [ORCID](https://orcid.org/0009-0008-4747-6088)
 
+## What I Build
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>AI Security</h3>
+      <p>Securing LLM and AI-enabled applications with prompt-injection defenses, policy guardrails, and model-facing controls.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Detection Engineering</h3>
+      <p>Building tools for detection-rule quality, Sigma validation, threat intelligence pipelines, and cross-platform detection translation.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Agentic Systems</h3>
+      <p>Designing agentic architectures with planning loops, tool boundaries, memory and state management, evaluation, observability, and runtime guardrails.</p>
+    </td>
+  </tr>
+</table>
+
 ## Open source
 
-**[sigmalint](https://github.com/ni5h4nt/sigmalint)** · ESLint-style linter for Sigma detection rules. 22 deterministic quality checks across six dimensions, evaluated against the full SigmaHQ corpus of 3,132 production rules at 0.993 mean target-rule recall. MIT licensed, on [PyPI](https://pypi.org/project/sigmalint-cli/), citable via [DOI](https://doi.org/10.5281/zenodo.20371168).
+**[sigmalint](https://github.com/ni5h4nt/sigmalint)** · ESLint-style linter for Sigma detection rules, with deterministic quality checks for maintainability, metadata hygiene, logic structure, and platform portability. MIT licensed, available on [PyPI](https://pypi.org/project/sigmalint-cli/), and citable via [DOI](https://doi.org/10.5281/zenodo.20371168).
 
 **[prompt-injection-scanner](https://github.com/ni5h4nt/prompt-injection-scanner)** · Defensive tool for detecting prompt injection attacks in LLM applications. Multi-stage pipeline (heuristics, vector similarity, LLM guardian) with structured-output policy guardrails.
 
@@ -22,7 +41,8 @@ I build infrastructure that turns threat intelligence into high-quality detectio
 
 ## Background
 
-- Principal Software Engineer at System Two Security (Detections.ai): designed and built the platform's AI detection generation and cross-platform detection-rule translation features, both shipped to production
+- 20+ years building complex systems across security, infrastructure, and applied AI
+- Principal Software Engineer at System Two Security (Detections.ai): designed and built AI-assisted detection generation and cross-platform detection-rule translation systems
 - Earlier: client intrusion detection and prevention engine work at Symantec (Broadcom), AI-driven phishing detection at Bolster
 - Carnegie Mellon University, MS Information Technology, Information Security (2013) · MIT Professional Education, Applied Data Science (2023) · CISSP
 
