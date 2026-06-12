@@ -1,6 +1,6 @@
 # Nishant Tyagi
 
-<img src="./assets/profile-header.svg" alt="Nishant Tyagi · Cybersecurity · AI Security · Agentic Systems" width="100%">
+<img src="./assets/profile-header-cybersecurity.svg" alt="Nishant Tyagi · Cybersecurity · AI Security · Agentic Systems" width="100%">
 
 **Cybersecurity · AI Security · Agentic Systems**
 
