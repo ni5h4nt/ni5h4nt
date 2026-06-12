@@ -36,8 +36,8 @@ I build security infrastructure for complex systems: intrusion prevention, phish
 
 ## Research
 
-- [SoK: AI-Assisted Threat Intelligence Pipelines](https://doi.org/10.5281/zenodo.20371686) (preprint, 2026)
-- [Static Quality Assessment of Sigma Detection Rules: Framework and Empirical Evaluation](https://doi.org/10.5281/zenodo.20371761) (preprint, 2026)
+- [SoK: AI-Assisted Threat Intelligence Pipelines - A Taxonomy and Research Agenda for the Agentic Transition](https://papers.ssrn.com/abstract=6817643) (SSRN, 2026 · [DOI](https://doi.org/10.5281/zenodo.20371686))
+- [Static Quality Assessment of Sigma Detection Rules: Framework and Empirical Evaluation](https://papers.ssrn.com/abstract=6823718) (SSRN, 2026 · [DOI](https://doi.org/10.5281/zenodo.20371761))
 
 ## Background
 
