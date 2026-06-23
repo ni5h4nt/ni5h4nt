@@ -50,11 +50,11 @@ I build security infrastructure for complex systems: intrusion prevention, phish
 Latest from [cybertect.ai](https://cybertect.ai/insights):
 
 <!-- BLOG-POST-LIST:START -->
+- [Memory Safety in Agentic Systems Why Your Agents Memory is a Security Blind Spot](https://cybertect.ai/insights/memory-safety-in-agentic-systems-why-your-agents-memory-is-a-security-blind-spot)
 - [Beyond Model Hardening: The Two-Layer Defense Your LLM Deployment Is Missing](https://cybertect.ai/insights/beyond-model-hardening-the-two-layer-defense-your-llm-deployment-is-missing)
 - [Your AI Agent Has No Guardrails. PCAS Changes That with a Compiler, Not a Prayer](https://cybertect.ai/insights/your-ai-agent-has-no-guardrails-pcas-changes-that-with-a-compiler-not-a-prayer)
 - [Your AI Has a Gut Feeling Problem](https://cybertect.ai/insights/your-ai-has-a-gut-feeling-problem)
 - [The Agentic Displacement: A Multi-Trillion Dollar Revaluation](https://cybertect.ai/insights/the-agentic-displacement-a-multi-trillion-dollar-revaluation)
-- [Ontology in Agentic Workflows: Why It's Necessary](https://cybertect.ai/insights/ontology-in-agentic-workflows-why-its-necessary)
 <!-- BLOG-POST-LIST:END -->
 
 Also: [30 system design walkthroughs](https://ni5h4nt.github.io/system-design/html/index.html) with Mermaid architecture diagrams.
